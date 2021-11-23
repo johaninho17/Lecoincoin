@@ -1,0 +1,6 @@
+#Thu, 18 Nov 2021 17:43:06 +0100
+
+info.app.version=0.1
+info.app.name=yamssi_amet
+grails.env=development
+info.app.grailsVersion=3.3.8
